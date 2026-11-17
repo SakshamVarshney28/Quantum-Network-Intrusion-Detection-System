@@ -1,0 +1,42 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+
+# Datasets
+datasets/
+combined_dataset.csv
+processed/
+demo_csv/
+
+# Trained models
+models/
+*.pth
+*.pt
+*.pkl
+
+# Generated reports
+reports/
+results/
+
+# Runtime files
+alerts.json
+history.json
+users.json
+.remember.json
+
+# Local scratch/document folder
+folder/
+
+# OS files
+.DS_Store
+Thumbs.db
